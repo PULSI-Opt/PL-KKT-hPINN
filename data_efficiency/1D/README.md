@@ -17,5 +17,3 @@ The default scenarios use `n_inner_per_region = [0, 1, 2, 5, 10, 15, 20, 25]`, 5
 
 - `metric_summary_by_samples.csv`
 - `rmse_vs_samples_1d_data_efficiency.png`
-
-Temporary models, learning curves, per-run tables, logs, scenario archives, and duplicate scenario files are removed after aggregation.
